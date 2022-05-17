@@ -15,4 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_star2qlte.mk
+	$(LOCAL_DIR)/twrp_star2qlte.mk
+
+COMMON_LUNCH_CHOICES := twrp_star2qlte-eng
