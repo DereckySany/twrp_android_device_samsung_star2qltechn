@@ -5,7 +5,7 @@
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch twrp_star2qlte-eng
+lunch twrp_star2qltechn-eng
 make recoveryimage
 ```
 

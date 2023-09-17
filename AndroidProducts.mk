@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/twrp_star2qlte.mk
+	$(LOCAL_DIR)/twrp_star2qltechn.mk
 
-COMMON_LUNCH_CHOICES := twrp_star2qlte-eng
+COMMON_LUNCH_CHOICES := twrp_star2qltechn-eng
